@@ -52,7 +52,7 @@ export default function Footer() {
         </a>
       </div>
       <p className="text-sm text-gray-400">
-        &copy; {new Date().getFullYear()} FABIN NOCX. All rights reserved.
+        &copy; {new Date().getFullYear()} FABIN SHIBU. All rights reserved.
       </p>
     </motion.footer>
   );
